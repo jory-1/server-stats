@@ -5,8 +5,8 @@
 - Total memory usage (Free vs Used including percentage)
 - Total disk usage (Free vs Used including percentage)
 - Top 5 processes by CPU usage
-- Top 5 processes by memory usage \n
-  *make sure you have `free` installed*
+- Top 5 processes by memory usage
+*make sure you have `free` installed*
 ## Usage
 - Step 1: Make the script executable
 ```shell
